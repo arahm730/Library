@@ -1,0 +1,66 @@
+body {
+    background-image: url("/images/library.jpg")
+}
+
+h1 {
+    position: relative;
+    text-align: center;
+    margin: auto;
+    top: 50px;
+    width: 400px;
+    border-radius: 25px;
+    background-color: gold;
+    color: blue;
+    font-size: 32px;
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS';
+}
+
+input {
+    margin-right: 10px;
+}
+
+label {
+    color: rgb(5, 5, 5);
+    font-weight: 1000;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 4px;
+}
+
+select {
+    margin-left: 15px;
+    margin-right: 20px;
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    font-size: 16px;
+    width: 100px;;
+}
+
+.book-table{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    margin-top: 4%;
+    margin-left: 35%;
+    height: 200px;
+    width: 600px;
+}
+
+.user-input {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 70px;
+    margin-top: 2%;
+    margin-left: 41%;
+    height: 120px;
+    width: 300px;
+}
+
+
+
+
+
